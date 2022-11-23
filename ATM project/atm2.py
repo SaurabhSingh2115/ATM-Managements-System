@@ -3,6 +3,7 @@ import tkinter.font as font
 import tkinter.messagebox
 import time                
 
+#credit to web dev tutorials on youtube 
 current_balance=100000
 
 class SampleApp(tk.Tk):
